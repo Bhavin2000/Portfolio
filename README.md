@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 Portfolio
 👋 Hello there! Welcome to my portfolio repository.
@@ -25,5 +24,3 @@ Clone the repository: git clone https://github.com/your-username/your-portfolio.
 Install dependencies: npm install
 Run the development server: npm run dev
 Feel free to reach out if you have any questions or suggestions!
-
-=======
