@@ -27,6 +27,3 @@ Run the development server: npm run dev
 Feel free to reach out if you have any questions or suggestions!
 
 =======
-# Portfolio
-my personal portfolio
->>>>>>> 49c708527f7144db6f6563366f742ac8188a5fc9
