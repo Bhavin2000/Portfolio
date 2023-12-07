@@ -13,7 +13,7 @@ export default function Projects() {
     <section ref={ref} id="projects" className="scroll-mt-28 mb-28">
       <SectionHeading>My projects</SectionHeading>
       <div>
-        <a href="https://plots-nine.vercel.app/" target="_blank">
+        <a href="https://plotss.vercel.app/" target="_blank">
         {projectsData.map((project, index) => (
           <React.Fragment key={index}>
             <Project {...project} />
