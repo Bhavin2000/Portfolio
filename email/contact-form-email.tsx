@@ -30,7 +30,7 @@ export default function ContactFormEmail({
           <Container>
             <Section className="bg-white borderBlack my-10 px-10 py-4 rounded-md ">
               <Heading className="leading-tight">
-                v
+              You received the following message from Portfolio
               </Heading>
               <Text>{message}</Text>
               <Hr />
