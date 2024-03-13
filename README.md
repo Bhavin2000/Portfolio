@@ -19,8 +19,6 @@ Features
 Responsive Design: The portfolio is designed to be fully responsive across various devices.
 Interactive Sections: Utilizes Framer Motion for smooth animations and interactive user interface elements.
 Project Showcase: A section highlighting my projects with details and links.
-How to Run Locally
-Clone the repository: git clone https://github.com/your-username/your-portfolio.git
 Install dependencies: npm install
 Run the development server: npm run dev
 Feel free to reach out if you have any questions or suggestions!
