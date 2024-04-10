@@ -49,7 +49,7 @@ export const educationData = [
     location: "Annasaheb Vartak College, vasai, Mumbai",
     description:
       "I completed My Graduation in Bachelor of Commerce from Annasaheb Vartak College, vasai, Mumbai as 6.07/10 CGPA",
-    icon: React.createElement(CgWorkAlt),
+    icon: React.createElement(LuGraduationCap),
     date: "2018 - 2021",
   },
   {
@@ -57,7 +57,7 @@ export const educationData = [
     location: "St. Joseph's Junior College, Nandakhal, Virar, Mumbai",
     description:
       "I completed My HSC with Information Technology as a optional subject from St. Joseph's Junior College, Nandakhal,Virar,Mumbai as 65.69% ",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(LuGraduationCap),
     date: "2018",
   },
   {
@@ -65,7 +65,7 @@ export const educationData = [
     location: "Bhausaheb Vartak Vidyamandir, Nale, Nallasopara, Mumbai",
     description:
       "I completed My SSC from Bhausaheb Vartak Vidyamandir,Nale,Nallasopara,Mumbai as 79.80% ",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(LuGraduationCap),
     date: "2016",
   }
 ] as const;
@@ -101,7 +101,7 @@ export const experiencesData = [
     location: "SIEMENS",
     description:
       "Contract-based work on Siemens project at ONGC NEELAM Platform from SIEMENS Ltd. by V-Tech Offshore, involving project coordination and management.",
-    icon: React.createElement(LuGraduationCap),
+    icon: React.createElement(CgWorkAlt),
     date: " February 2023 - March 2023",
   },
   {
