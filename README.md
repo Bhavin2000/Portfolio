@@ -21,6 +21,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 git clone https://github.com/Bhavin2000/Portfolio.git
+
 cd portfolio
 
 
@@ -30,6 +31,7 @@ npm install
 
 Run the development server:
 npm run dev
+
 The development server will start, and you can view the portfolio by navigating to http://localhost:3000 in your browser.
 
 Contribution
