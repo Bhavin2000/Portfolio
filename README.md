@@ -16,6 +16,8 @@ Icons: React Icons
 Images: Next.js Image Component
 
 
+
+
 Features
 
 Responsive Design: The portfolio is designed to provide an optimal viewing experience across a wide range of devices, from mobile phones to desktop monitors.
