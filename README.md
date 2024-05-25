@@ -4,18 +4,34 @@ Overview
 This repository contains the source code for my personal portfolio website, which showcases my skills, projects, and experiences. I had the incredible support of ChatGPT throughout the development process, which greatly helped in brainstorming ideas, solving coding challenges, and refining the final product.
 
 Technologies Used
+
 Frontend: React, Next.js
+
 Styling: Tailwind CSS
+
 Animation: Framer Motion
+
 Icons: React Icons
+
 Images: Next.js Image Component
+
+
 Features
+
 Responsive Design: The portfolio is designed to provide an optimal viewing experience across a wide range of devices, from mobile phones to desktop monitors.
+
 Interactive Sections: Utilizing Framer Motion, the portfolio includes smooth animations and interactive elements that enhance the user experience.
+
 Project Showcase: A dedicated section that highlights my key projects, providing detailed descriptions, technologies used, and links to live demos or repositories.
+
 Modern UI/UX: The design focuses on clean, modern aesthetics, ensuring an intuitive and engaging user interface.
+
 SEO Optimized: The website is optimized for search engines, ensuring better visibility and reach.
+
 Fast Performance: Leveraging the capabilities of Next.js, the portfolio loads quickly and efficiently, providing a seamless browsing experience.
+
+
+
 Installation and Setup
 To run this project locally, follow these steps:
 
