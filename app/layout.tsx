@@ -7,7 +7,6 @@ import ThemeSwitch from "@/components/theme-switch";
 import ThemeContextProvider from "@/context/theme-context";
 import { Toaster } from "react-hot-toast";
 import Metadata1 from "@/components/Metadata1"; 
-import { Analytics } from '@vercel/analytics/next';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -43,7 +42,6 @@ export default function RootLayout({
             <ThemeSwitch />
           </ActiveSectionContextProvider>
         </ThemeContextProvider>
-                      <Analytics />
       </body>
     </html>
   );
