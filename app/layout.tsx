@@ -36,7 +36,6 @@ export default function RootLayout({
             <Header />
             <main >
               {children}
-              <Analytics />
             </main>
             <Footer />
 
@@ -44,6 +43,7 @@ export default function RootLayout({
             <ThemeSwitch />
           </ActiveSectionContextProvider>
         </ThemeContextProvider>
+                      <Analytics />
       </body>
     </html>
   );
