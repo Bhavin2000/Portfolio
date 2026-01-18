@@ -1,4 +1,4 @@
-import Header from "@/components/header";
+import HeaderWrapper from "@/components/header-wrapper";
 import "./globals.css";
 import { Inter } from "next/font/google";
 import ActiveSectionContextProvider from "@/context/active-section-context";
@@ -32,7 +32,7 @@ export default function RootLayout({
 
         <ThemeContextProvider>
           <ActiveSectionContextProvider>
-            <Header />
+            <HeaderWrapper />
             <main >
               {children}
             </main>
