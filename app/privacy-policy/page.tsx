@@ -34,7 +34,7 @@ export default function PrivacyPolicyPage() {
                     Merchant Legal Name
                   </h3>
                   <p className="text-gray-700 dark:text-gray-300">
-                    Neoverse
+                    Bhavin Raut
                   </p>
                 </div>
 

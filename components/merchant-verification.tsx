@@ -32,13 +32,13 @@ export default function MerchantVerification() {
         <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8 space-y-6">
           <div className="border-b border-gray-200 dark:border-gray-700 pb-4">
             <h3 className="text-xl font-semibold mb-2">Business Information</h3>
-            <p className="text-sm text-gray-600 dark:text-gray-400">Neoverse - Payment Solutions</p>
+            <p className="text-sm text-gray-600 dark:text-gray-400">Neoverse - Software Services & Website Development</p>
           </div>
 
           <div className="space-y-4">
             <div>
               <h4 className="font-semibold text-gray-900 dark:text-white mb-1">Merchant Legal Name</h4>
-              <p className="text-gray-700 dark:text-gray-300">Neoverse</p>
+              <p className="text-gray-700 dark:text-gray-300">Bhavin Raut</p>
             </div>
 
             <div>
