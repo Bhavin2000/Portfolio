@@ -1,16 +1,30 @@
+"use client";
+
 import React from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 export default function Footer() {
+  const pathname = usePathname();
+  const isOnSubPage = pathname === "/contact" || pathname === "/privacy-policy";
+
   return (
     <footer className="mb-10 px-4 text-center text-gray-500">
       <small className="mb-2 block text-xs">
-        &copy; 2023 BR. All rights reserved.
+        &copy; 2023 All rights reserved by Neoverse.
       </small>
-      <p className="text-xs mb-2">
-        <span className="font-semibold">Brand:</span> Neoverse
-      </p>
       <div className="flex justify-center gap-4 mb-3">
+        {isOnSubPage && (
+          <>
+            <Link 
+              href="/" 
+              className="text-xs underline hover:text-gray-700 dark:hover:text-gray-300"
+            >
+              Home
+            </Link>
+            <span className="text-xs">|</span>
+          </>
+        )}
         <Link 
           href="/contact" 
           className="text-xs underline hover:text-gray-700 dark:hover:text-gray-300"
